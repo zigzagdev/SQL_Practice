@@ -1,0 +1,1 @@
+select count(goal_time) from goals where player_id is null ;
