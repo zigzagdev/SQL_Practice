@@ -1,0 +1,1 @@
+select * from players where birth <= '1976-01-13' ;
