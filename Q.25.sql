@@ -1,0 +1,1 @@
+ select uniform_num,name,club from players ;
