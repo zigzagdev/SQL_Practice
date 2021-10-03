@@ -1,1 +1,1 @@
-SELECT DISTINCT position  from players ;
+select DISTINCT position  from players ;
