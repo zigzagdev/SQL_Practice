@@ -1,0 +1,1 @@
+select ifnull(player_id,9999),goal_time from goals order by ifnull(player_id,9999) desc ,goal_time desc;
