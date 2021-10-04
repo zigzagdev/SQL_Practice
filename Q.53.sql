@@ -1,0 +1,1 @@
+select sum(player_id between 714 and 736) from goals ;
