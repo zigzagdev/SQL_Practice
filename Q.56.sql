@@ -1,0 +1,1 @@
+select sum(ranking) as 'mix_rank' from countries where group_name = 'C' ;
