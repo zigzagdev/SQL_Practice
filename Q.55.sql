@@ -1,0 +1,1 @@
+select max(height)as 'maxhei', max(weight)as 'maxwei' from players ;
