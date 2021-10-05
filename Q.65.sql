@@ -1,0 +1,1 @@
+SELECT g.id,g.goal_time,p.name FROM goals g JOIN players p ON p.id=g.player_id ;
